@@ -1,0 +1,3 @@
+[submodule "GenertiveChatbot/generative-ai"]
+	path = GenertiveChatbot/generative-ai
+	url = git@github.com:AliAlsaeed/healthhack.git
